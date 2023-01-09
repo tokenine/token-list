@@ -1,0 +1,12 @@
+{
+    "tokens": [
+        {
+            "name": "TestNFT",
+            "symbol": "TNFT",
+            "address": "0xb8c495A2066E501824A1f132fc4DDfCCFFd5B540",
+            "chainId": 3502,
+            "decimals": 18,
+            "logoURI": ""
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "tokens": [
+        {
+            "name": "TestToken",
+            "symbol": "TK",
+            "address": "0x9F420f83F00EcC3EC04450120bF93B60B2c3ED19",
+            "chainId": 3502,
+            "decimals": 18,
+            "logoURI": ""
+        },
+        {
+            "name": "BUSD",
+            "symbol": "BUSD",
+            "address": "0x2398577411e2A911F085211b40Ce73e3af0aebdC",
+            "chainId": 3502,
+            "decimals": 18,
+            "logoURI": "https://bscscan.com/token/images/busd_32.png"
+        }
+    ]
+}
