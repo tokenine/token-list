@@ -1,0 +1,25 @@
+{
+    "tokens": [
+        {
+            "name": "BUSD TEST",
+            "symbol": "BUSD",
+            "address": "0x06150f4C2A78fbA304eaBf13fD9dCcF3Deb3a8c8",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/usd.png"
+        },
+        {
+            "name": "OWX TEST",
+            "symbol": "OWX",
+            "address": "0x1c740ACaea99b572D16b9a1457f9A06385e83bA7",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/bch.png"
+        },
+        {
+            "name": "OWE TEST",
+            "symbol": "OWE",
+            "address": "0xEc9F42dF3F86C7bB13d297D076772F09782c80B0",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/tusd.png"
+        }
+    ]
+}
