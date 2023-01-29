@@ -20,6 +20,27 @@
             "address": "0xEc9F42dF3F86C7bB13d297D076772F09782c80B0",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/tusd.png"
+        },
+        {
+            "name": "OWE TEST",
+            "symbol": "OWE",
+            "address": "0xEc9F42dF3F86C7bB13d297D076772F09782c80B0",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/tusd.png"
+        },
+        {
+            "name": "OWE TEST",
+            "symbol": "OWE",
+            "address": "0xEc9F42dF3F86C7bB13d297D076772F09782c80B0",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/tusd.png"
+        },
+        {
+            "name": "OWE TEST",
+            "symbol": "OWE",
+            "address": "0xEc9F42dF3F86C7bB13d297D076772F09782c80B0",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/tokenine/token-list/master/images/tusd.png"
         }
     ]
 }
